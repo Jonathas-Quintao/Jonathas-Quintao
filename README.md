@@ -67,7 +67,7 @@ Desenvolvedor Full Stack focado em construir aplicações escaláveis, APIs e pr
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jonathas-quintao">
+<a href="https://www.linkedin.com/in/jonathasquintao">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -75,10 +75,5 @@ Desenvolvedor Full Stack focado em construir aplicações escaláveis, APIs e pr
 
 <br>
 
-<div align="center">
-
-<i>"Transformando ideias em produtos através de código."</i>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B82F6,100:06B6D4"/>
