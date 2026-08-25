@@ -21,7 +21,9 @@ Desenvolvedor Full Stack focado em construir aplicações escaláveis, APIs e pr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jonathas-quintao&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://img.shields.io/badge/Building-Products-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Learning-Always-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coffee-∞-111827?style=for-the-badge"/>
 
 </div>
 
